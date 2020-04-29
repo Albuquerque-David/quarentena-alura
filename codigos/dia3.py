@@ -17,7 +17,7 @@ import seaborn as sns
 ##DESAFIO 5: Confirmar a tese de que o Woody Allen é o ponto no 18 (fez muitos filmes e não faturou)
 ##DESAFIO 6: Calcular a correlação dos filmes a partir de 2000 e interpretar
 ##DESAFIO 7: Tentar encontrar uma reta, com excel, python, etc.
-##DESAFIO 8: 
+##DESAFIO 8:
 
 imdb = pd.read_csv("../movie_metadata.csv")
 #print(imdb["color"].value_counts(normalize=True))
